@@ -27,7 +27,7 @@ Distribute company shares for employees in a "deferred equity incentive plan" au
 - This contract was deployed and tested on Ropsten Test Network.
 
 ## Testing of Network
-![associate profit splitter](Sc_1.png)
+![associate profit splitter](sc_1.png)
 ![associate profit splitter](Screenshot-2.png)
 ![associate profit splitter](Screenshot-3.png)
 
