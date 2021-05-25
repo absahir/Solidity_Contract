@@ -31,18 +31,3 @@ Distribute company shares for employees in a "deferred equity incentive plan" au
 ![associate profit splitter](Screenshot-2.jpg)
 ![associate profit splitter](Screenshot-3.png)
 
-## Resources
-Building the next financial revolution isn't easy, but we need your help. Don't be intimidated by the semicolons!
-
-
-There are lots of great resources to learn Solidity. Remember, you are helping push the very edge of this space forward, so don't feel discouraged if you get stuck! In fact, be proud that you are taking on such a challenge!
-
-For some succinct and straightforward code snips, check out Solidity By Example
-
-For a more extensive list of awesome Solidity resources, check out Awesome Solidity
-
-Another tutorial is available at EthereumDev.io
-
-If you enjoy building games, here's an excellent tutorial called CryptoZombies
-
-contract address : 0xB0d42B1dE3374d2A266f50177bb5FaFBc85E9320
